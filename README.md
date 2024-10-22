@@ -2,7 +2,7 @@
 
 ## OC-XE
 
-OC-XE singkatan dari Ocean Expdition yang merupakan aplikasi pemesenan tiket menyelam yang memudahkan dalam memesan tiket, melihat berbagai lokasi dan informasi. 
+**OC-XE** singkatan dari **Ocean Expdition** yang merupakan aplikasi pemesenan tiket menyelam yang memudahkan dalam memesan tiket, melihat berbagai lokasi dan informasi. 
 
 ## Kelompok 5
 Anggota Kelompok 
