@@ -5,7 +5,7 @@
 **OC-XE** singkatan dari **Ocean Expdition** yang merupakan aplikasi pemesenan tiket menyelam yang memudahkan dalam memesan tiket, melihat berbagai lokasi dan informasi. 
 
 ## Kelompok 5
-Anggota Kelompok 
+Anggota Kelompok:
 1. Erlang Cahya Ardyansyah (2301912)
 2. Faiz Lintang Prawira (2301910)
 3. Fathir Raihan Muhammad (2305992)
